@@ -1,1 +1,5 @@
-hey i am there
+hey i am there 
+git init 
+tounch example.txt
+git add .
+git commit -m"here is the fisrt file"	
